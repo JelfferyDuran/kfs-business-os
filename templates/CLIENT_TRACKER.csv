@@ -1,0 +1,2 @@
+case_id,client_name,business_name,state,service_package,status,quote_amount,deposit_due,deposit_paid,balance_due,balance_paid,agreement_signed,intake_received,formation_submitted,formation_approved,ein_complete,state_registration_complete,bank_ready,delivered,next_action,due_date,blocker,secure_folder_reference,last_updated
+KFS-2026-001,,,NJ,Full Business Launch Package,LEAD,1600,800,No,800,No,No,No,No,No,No,No,No,No,Send quote,,,,

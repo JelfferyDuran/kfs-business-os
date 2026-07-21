@@ -1,0 +1,23 @@
+{
+  "case_id": "KFS-YYYY-###",
+  "status": "LEAD",
+  "next_action": "",
+  "blockers": [],
+  "payment": {
+    "contract": 1600,
+    "deposit_paid": false,
+    "balance_paid": false
+  },
+  "milestones": {
+    "agreement_signed": false,
+    "intake_received": false,
+    "formation_submitted": false,
+    "formation_approved": false,
+    "ein_complete": false,
+    "state_registration_complete": false,
+    "bank_ready": false,
+    "delivered": false
+  },
+  "sensitive_data_in_record": false,
+  "updated_at": ""
+}
